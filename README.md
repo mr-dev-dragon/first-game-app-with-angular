@@ -1,2 +1,1 @@
-# Angular game PWA
 
